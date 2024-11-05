@@ -1,8 +1,8 @@
 [
     {
       "product_id": "101",
-      "product_title": "Wireless Bluetooth Earbuds",
-      "product_image": "https://example.com/images/earbuds.jpg",
+      "product_title": "Bluetooth Earbuds",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg99oPgI2fKBuHaFBLCMl8jBbUzRPWaIppRdm9Lg4OurcMH2lq-bIwsLbbH03lUtNJlsNZD1zqxkby3wJnQQMq1JzUv8W_3dNAbaUSEDRvbLmsHGCl0oYF5Mb7WCu06994eG7vf4p553ZyOVVcqtjQXSS_06VjE5k2cF3cXrSCqDliZzPXsvN-L2echyS8/s500/101.png",
       "category": "Audio",
       "price": 49.99,
       "description": "High-quality wireless Bluetooth earbuds with noise cancellation and long battery life.",
@@ -21,7 +21,7 @@
     {
       "product_id": "102",
       "product_title": "Smartphone G202",
-      "product_image": "https://example.com/images/smartphone_g202.jpg",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvpgjpqnoeE7i0KETAKpNFPLr5EPB8fF19hhUtzr6O_lvSBRXXfC7P6EDHEeUsZaqihmltrZ6c8AaGLd53mLEzR0zlzrGOh0sPgCLEhpr8_1v8FqA_aEElrjTpF4tzyyeg3y6GLkF7L9BdWymdZFqn-DXH_8mY5arke8xUcJsWWKmfCSRzz8kaweJFLd8/s524/102.png",
       "category": "Mobile Phones",
       "price": 399.99,
       "description": "Latest model smartphone with powerful processor, 5G connectivity, and advanced camera.",
@@ -41,7 +41,7 @@
     {
       "product_id": "103",
       "product_title": "Gaming Laptop X15",
-      "product_image": "https://example.com/images/gaming_laptop_x15.jpg",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1aEw2iIZ-nARBua_w2gwQPj6G-6XQOgi7U4Be76mAXqpb7Yy5Vtx2DZUakCuAPv2pBwlGAiFm2pmEyO4T8LxKmGGIVb28Alrein9aELNU4FlMvt_bx_wKSgagrpaCIVGDWTcyLwccGS9aJqM8tJlshUVj40uryUqscUNPhqIY16NXat0M1Pkia0WFhnw/s622/103.png",
       "category": "Computers",
       "price": 1199.99,
       "description": "High-performance gaming laptop with advanced graphics and cooling system.",
@@ -61,7 +61,7 @@
     {
       "product_id": "104",
       "product_title": "Smartwatch Series 6",
-      "product_image": "https://example.com/images/smartwatch_s6.jpg",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT_QeXjDLvvdt3vrbILZnGoR4yoKcK22CL7NI2SWWg7DRTACvBSBXKslDwihja04iJBqRpM0WWXjh2Z-IZVw7cESvyPKJjlcCleFFCrtOhFegWuZcpbo62IWAtJkLRkyG7FAzvs3Led46vK54_OXzgwpR53aQ98htpJE51ZJj-rbMT5M0v7j_XHZM6Pdg/s500/104.png",
       "category": "Wearables",
       "price": 199.99,
       "description": "Stylish smartwatch with health tracking, GPS, and water resistance.",
@@ -80,7 +80,7 @@
     {
       "product_id": "105",
       "product_title": "4K UHD TV 55 inch",
-      "product_image": "https://example.com/images/tv_4k_55.jpg",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOHVKxyimnT3xYHjQgHrzkmtZt_BimxeYwCmO2F2Guutg15VJS66GKRgArvn9ximefsnFJTR5sDzetJ0_pDbqPY7aIKMOO7tZwDzuKHBzP-yPMpY9_uw55PIvU4rcMovOoRb6saUyN5pvRQoiABpgHv0eftgjL8IomlyRtzTkqlLSSO0LGCwq3td5meY/s539/105.png",
       "category": "Televisions",
       "price": 549.99,
       "description": "55-inch 4K UHD television with HDR and smart features.",
@@ -99,7 +99,7 @@
     {
       "product_id": "106",
       "product_title": "Portable Projector Z100",
-      "product_image": "https://example.com/images/projector_z100.jpg",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrerERunYWu6V4HzQAElSQ-sy_ht3-F_todcPg3kjD4Ra5aZnhyXRAGPQbplb8_Ny9BgSoVLaXzZ9lH9VaZrWBUq_KPore5M92JKiAeXilQkcakyhm9JhqIGZLOEIwVEdqHCJlIidTzFfS5rrn8qn6dd0BEp_bHo7LBx42I5RfRHrJFCUGpAexrfg8rmg/s500/106.png",
       "category": "Projectors",
       "price": 299.99,
       "description": "Compact portable projector with HD resolution and wireless connectivity.",
@@ -118,7 +118,7 @@
     {
       "product_id": "107",
       "product_title": "Robot Vacuum Cleaner Pro",
-      "product_image": "https://example.com/images/robot_vacuum_pro.jpg",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrwPf-gimPNvbi51wFRdhZbsBDplM7f7ApXVzWyd-_nM92jj9mWLqvzw6s5SzkmECPs8shzzmzeyE9MGY2NELMyXfHKNHkYF1sv20IGSElp8OlzYvNs2z5A9aMs0y02r5UgKsw66pelSpGxawF1WMdA5liyCb46p20OEnwQg9Mm6WG__jDV49zKzcxQTc/s1800/107.webp",
       "category": "Home Appliances",
       "price": 179.99,
       "description": "Efficient robot vacuum cleaner with app control and multi-surface capability.",
@@ -137,7 +137,7 @@
     {
       "product_id": "108",
       "product_title": "Smart Refrigerator XL",
-      "product_image": "https://example.com/images/fridge_xl.jpg",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPdFF4H8P01fU-0LF3W8ffqh5hwSIfcvngv6X79Kh4R1QraXN4xFveZLsMO8PEmDcHoThSh7Gfexg6rnJs0Bx_I_dI9aGRLjlllfMLJzisqYs6shGcOn_M1G56lga1Lrh2EE0N3S__P3ZW8biKU5rnvDIS9CAz208JXZIdWsM84lzvc3heWxEEHSOQS6c/s225/108.png",
       "category": "Home Appliances",
       "price": 999.99,
       "description": "Smart refrigerator with temperature control, ice maker, and large capacity.",
@@ -156,7 +156,7 @@
     {
       "product_id": "109",
       "product_title": "Gaming Mouse GX5",
-      "product_image": "https://example.com/images/gaming_mouse_gx5.jpg",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPBapovLo2BtT7sdbM28gGojFWp243JH2Utx_IBbZyvKKGRKotpmiCEP5IBTuIwrzDYtHLWUXl3-inD4oTUyiSlrgZmcFoxV_k-4Ubm-XiEbzjJs-W8Jr10uEaqTMkTw1GrLg6RHR0xsPaNG9LdfwTY5boZfdkQP40ta7sHbab2_-zCkr97FXjjhC2_iQ/s225/109.png",
       "category": "Accessories",
       "price": 59.99,
       "description": "Precision gaming mouse with customizable buttons and RGB lighting.",
@@ -175,7 +175,7 @@
     {
       "product_id": "110",
       "product_title": "Noise-Cancelling Headphones",
-      "product_image": "https://example.com/images/noise_cancelling_headphones.jpg",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzzUURIiZACuMRaiy3Q3_h2xZWdRCM2y_wtJ23xIbNHGaUKt99ODuUZKu1V741reUG9bYNkZP_X1LpUOlysSVhtdebElZvZBoScl9VGCf_nmcB1OCRWmiEU_nt3gC54H25QJz1RcpOOXo227Tf0MyrcQH_ThFLcLC9gk-LeOmzAmxbJ0of_fJ0keZeqTA/s500/110.png",
       "category": "Audio",
       "price": 149.99,
       "description": "Comfortable noise-cancelling headphones with long battery life.",
@@ -194,8 +194,7 @@
     {
       "product_id": "111",
       "product_title": "Fitness Tracker XPro",
-      "product_image": "https://example.com/images/fitness_tracker_xpro.jpg",
-      "category": "Wearables",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioGk3ZpL64PRBifgiv8Km0PE4FNocIUrC2_MSJh1KE3v6HODW69CRM8tozk9GcA_kAwbLkv_wTfOf2kgVqKm8CsPwF_3A9XDTycS8d4O_VC01e3yFHit5EzYB4-XgntxLksBSY_8EHeBtFMwpotj_iX5T0mgSQvAPcW1BRhIuhVZKFxhli0AJJficC_iQ/s500/111.png",
       "price": 89.99,
       "description": "Advanced fitness tracker with heart rate monitor and GPS tracking.",
       "specifications": [
@@ -213,7 +212,7 @@
     {
       "product_id": "112",
       "product_title": "Wireless Charging Pad",
-      "product_image": "https://example.com/images/charging_pad.jpg",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLWhEBSiLr2ViEjC5j6DxpW1yN9NOpCBFusdy5lelcxGM7bmcWXJWFHKsDJ7zzBCva8y3RSeQUc3YYkf67eMmvZAhguEu3_VkH3bXXUENtCzi2ZrDS8FtL_Iik3khc5lAIfTg_TpE9A-HjJgTpe7QLLPBqcogi8Yd2Rx4OaDWFSRNAYSalSKNM6A7DUOg/s500/112.png",
       "category": "Accessories",
       "price": 29.99,
       "description": "Fast wireless charging pad compatible with multiple devices.",

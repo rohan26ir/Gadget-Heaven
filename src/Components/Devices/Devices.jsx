@@ -12,7 +12,7 @@ const Devices = () => {
   },[])
 
   return (
-    <div>
+    <div className='my-5'>
       <h2 className='text-4xl text-center font-bold'>Explore Cutting-Edge Gadgets</h2>
 
       <h3 className='my-10 text-center'>Gadget : {gadgets.length}</h3>
