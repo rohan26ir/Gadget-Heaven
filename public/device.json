@@ -79,79 +79,83 @@
     },
     {
       "product_id": "105",
-      "product_title": "4K UHD TV 55 inch",
-      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOHVKxyimnT3xYHjQgHrzkmtZt_BimxeYwCmO2F2Guutg15VJS66GKRgArvn9ximefsnFJTR5sDzetJ0_pDbqPY7aIKMOO7tZwDzuKHBzP-yPMpY9_uw55PIvU4rcMovOoRb6saUyN5pvRQoiABpgHv0eftgjL8IomlyRtzTkqlLSSO0LGCwq3td5meY/s539/105.png",
-      "category": "Televisions",
-      "price": 549.99,
-      "description": "55-inch 4K UHD television with HDR and smart features.",
+      "product_title": "UltraBook Pro 14",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomWqKvn5y1POPpzhDIr3KtvbaPZC5_mbcMMBifJ0ai8vR74Zqr1TIUL_OpfC8HMz3Kg8o987yHGkUBlnQ3V04MdbZssj7S47PlnsxJWN4bDdUAg1L9RRbGoA0-ai-NSU4I88dG4QL2sTrs2ac3EBSA_cM_K28bdRQEVamJ6UHgRSjICVKP-fe6gdiV_Q/s576/105.png",
+      "category": "Computers",
+      "price": 999.99,
+      "description": "Lightweight and powerful laptop with an ultra-thin design, ideal for productivity and portability.",
       "specifications": [
-        "4K resolution",
-        "HDR10 support",
-        "Smart TV OS",
-        "3 HDMI ports"
+        "Intel i5 11th Gen processor",
+        "8GB RAM",
+        "512GB SSD",
+        "14-inch Full HD display",
+        "Battery life: 12 hours"
       ],
       "availability": true,
-      "rating": 4.3,
-      "manufacturer": "VisionPlus",
-      "warranty": "3 years",
-      "release_date": "2023-03-11"
+      "rating": 4.5,
+      "manufacturer": "LiteTech",
+      "warranty": "2 years",
+      "release_date": "2024-01-15"
     },
     {
       "product_id": "106",
-      "product_title": "Portable Projector Z100",
-      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrerERunYWu6V4HzQAElSQ-sy_ht3-F_todcPg3kjD4Ra5aZnhyXRAGPQbplb8_Ny9BgSoVLaXzZ9lH9VaZrWBUq_KPore5M92JKiAeXilQkcakyhm9JhqIGZLOEIwVEdqHCJlIidTzFfS5rrn8qn6dd0BEp_bHo7LBx42I5RfRHrJFCUGpAexrfg8rmg/s500/106.png",
-      "category": "Projectors",
-      "price": 299.99,
-      "description": "Compact portable projector with HD resolution and wireless connectivity.",
+      "product_title": "Desktop PC GForce Elite",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNfew8ivm4LVKmNBtm0g-s_AVA_gvTEkFehCGRG6libsvT7e-CHJ7XdlPy6VG9qKUjSKONNqDbO8t-DYB7Qv1VMzqOraNKaFcGjsHLp7KsRqeDKCfTe4Y8Mv1FA-f1JxZmLL1OHg4PSvwYwJZZWjH79ixO8nVCKcQrABUK5U7t9lg86WXv4bFt1x8GCsc/s500/106.png",
+      "category": "Computers",
+      "price": 1499.99,
+      "description": "High-performance desktop computer designed for gaming and intensive graphic tasks.",
       "specifications": [
-        "1080p HD resolution",
-        "Wi-Fi enabled",
-        "Battery life: 4 hours",
-        "Built-in speakers"
+        "AMD Ryzen 9 processor",
+        "32GB RAM",
+        "1TB SSD + 2TB HDD",
+        "NVIDIA RTX 3080 graphics card",
+        "Liquid cooling system"
       ],
-      "availability": false,
-      "rating": 4.2,
-      "manufacturer": "BrightBeam",
-      "warranty": "1 year",
-      "release_date": "2023-06-25"
+      "availability": true,
+      "rating": 4.8,
+      "manufacturer": "PowerBox",
+      "warranty": "3 years",
+      "release_date": "2023-09-20"
     },
     {
       "product_id": "107",
-      "product_title": "Robot Vacuum Cleaner Pro",
-      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrwPf-gimPNvbi51wFRdhZbsBDplM7f7ApXVzWyd-_nM92jj9mWLqvzw6s5SzkmECPs8shzzmzeyE9MGY2NELMyXfHKNHkYF1sv20IGSElp8OlzYvNs2z5A9aMs0y02r5UgKsw66pelSpGxawF1WMdA5liyCb46p20OEnwQg9Mm6WG__jDV49zKzcxQTc/s1800/107.webp",
-      "category": "Home Appliances",
-      "price": 179.99,
-      "description": "Efficient robot vacuum cleaner with app control and multi-surface capability.",
+      "product_title": "Budget Phone A2",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0YrVd0Oa70WBZYIwv8xvxWYIuIdvbuRHeUBYjBDSu7LqaS9UM_xF5QxH5CVa-_MzfUI3bwIvZnVM47rTLD9fK_XDcmEmHdqYnqyZCIsG0jWmwfBTLPnM4ZlhcZ-ZKTyCGFlHCWNyznlVdOsaAFy7-nsWGrjoTHl2Q4gheNpvKN9rbkrLVxaBDV7vs6PU/s225/107.png",
+      "category": "Mobile Phones",
+      "price": 149.99,
+      "description": "Affordable smartphone with all essential features, ideal for everyday use.",
       "specifications": [
-        "App control",
-        "Multi-surface cleaning",
-        "Battery life: 120 minutes",
-        "Automatic docking"
+        "6.1-inch HD+ display",
+        "32GB storage, expandable",
+        "Dual-lens 13MP rear camera",
+        "4G connectivity",
+        "3000mAh battery"
       ],
       "availability": true,
-      "rating": 4.4,
-      "manufacturer": "HomeTech",
-      "warranty": "2 years",
-      "release_date": "2022-11-13"
+      "rating": 4.2,
+      "manufacturer": "SmartBudget",
+      "warranty": "1 year",
+      "release_date": "2023-12-01"
     },
     {
       "product_id": "108",
-      "product_title": "Smart Refrigerator XL",
-      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPdFF4H8P01fU-0LF3W8ffqh5hwSIfcvngv6X79Kh4R1QraXN4xFveZLsMO8PEmDcHoThSh7Gfexg6rnJs0Bx_I_dI9aGRLjlllfMLJzisqYs6shGcOn_M1G56lga1Lrh2EE0N3S__P3ZW8biKU5rnvDIS9CAz208JXZIdWsM84lzvc3heWxEEHSOQS6c/s225/108.png",
-      "category": "Home Appliances",
-      "price": 999.99,
-      "description": "Smart refrigerator with temperature control, ice maker, and large capacity.",
+      "product_title": "Smartphone X1 Ultra",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDRiPErFaJ9bicKA1uLYLOaQur2TUhyphenhyphenHAwTiQd2wPw043CyZcjmqg3MSPI6LeBxWtDuxOr8fFqBLSRMILDM6FYAYSS0FQF8BnwC5BAjvgFhkeyJiHdlH3OLk3RN8DNx1bKNn41jaG3PTfFWk6M_tLT85JwEGKbYerEQVr3rK_sYL0WIzrfW9X5ZrdCiUw/s500/108.png",
+      "category": "Mobile Phones",
+      "price": 699.99,
+      "description": "Premium smartphone with 120Hz AMOLED display, fast processor, and advanced camera.",
       "specifications": [
-        "Large capacity",
-        "Energy efficient",
-        "Temperature control",
-        "Built-in ice maker"
+        "6.7-inch 120Hz AMOLED display",
+        "256GB storage",
+        "Quad-lens 108MP camera",
+        "5G connectivity",
+        "5000mAh battery with fast charging"
       ],
       "availability": true,
-      "rating": 4.9,
-      "manufacturer": "CoolZone",
-      "warranty": "5 years",
-      "release_date": "2021-08-22"
+      "rating": 4.8,
+      "manufacturer": "UltraMobile",
+      "warranty": "2 years",
+      "release_date": "2024-05-15"
     },
     {
       "product_id": "109",
@@ -192,41 +196,44 @@
       "release_date": "2023-07-12"
     },
     {
-      "product_id": "111",
-      "product_title": "Fitness Tracker XPro",
-      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioGk3ZpL64PRBifgiv8Km0PE4FNocIUrC2_MSJh1KE3v6HODW69CRM8tozk9GcA_kAwbLkv_wTfOf2kgVqKm8CsPwF_3A9XDTycS8d4O_VC01e3yFHit5EzYB4-XgntxLksBSY_8EHeBtFMwpotj_iX5T0mgSQvAPcW1BRhIuhVZKFxhli0AJJficC_iQ/s500/111.png",
-      "price": 89.99,
-      "description": "Advanced fitness tracker with heart rate monitor and GPS tracking.",
+      "product_id": "115",
+      "product_title": "Foldable Smartphone Z",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6LvLqgbfGAJGr6-TWNB-YDqs5jTrkKfwYmJYauophFomoBZVAJnE6O6jozNoKirBH6sQpkHKolVdLn5cimtXx2YULJjg-oWex7oCHq_5d-yJQ8thVSxzaqb1XWFXhP3hsEdX50qS9sOcVukcGkpGLXvgaaeBK-VYz0FHo38JQTfs_yd-w3WBgo1SbWog/s320/112-removebg-preview.png",
+      "category": "Mobile Phones",
+      "price": 1299.99,
+      "description": "Innovative foldable smartphone with flexible display and powerful performance.",
       "specifications": [
-        "Heart rate monitor",
-        "GPS enabled",
-        "Sleep tracking",
-        "Battery life: 10 days"
-      ],
-      "availability": false,
-      "rating": 4.3,
-      "manufacturer": "FitGear",
-      "warranty": "1 year",
-      "release_date": "2023-05-20"
-    },
-    {
-      "product_id": "112",
-      "product_title": "Wireless Charging Pad",
-      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLWhEBSiLr2ViEjC5j6DxpW1yN9NOpCBFusdy5lelcxGM7bmcWXJWFHKsDJ7zzBCva8y3RSeQUc3YYkf67eMmvZAhguEu3_VkH3bXXUENtCzi2ZrDS8FtL_Iik3khc5lAIfTg_TpE9A-HjJgTpe7QLLPBqcogi8Yd2Rx4OaDWFSRNAYSalSKNM6A7DUOg/s500/112.png",
-      "category": "Accessories",
-      "price": 29.99,
-      "description": "Fast wireless charging pad compatible with multiple devices.",
-      "specifications": [
-        "10W fast charging",
-        "Anti-slip surface",
-        "Compatible with iOS and Android",
-        "LED indicator light"
+        "7.3-inch foldable display",
+        "512GB storage",
+        "Triple-lens camera",
+        "5G support",
+        "4500mAh battery"
       ],
       "availability": true,
-      "rating": 4.5,
-      "manufacturer": "ChargePro",
-      "warranty": "6 months",
-      "release_date": "2023-01-18"
+      "rating": 4.6,
+      "manufacturer": "FlexTech",
+      "warranty": "2 years",
+      "release_date": "2024-03-10"
+    },
+    {
+      "product_id": "116",
+      "product_title": "Gaming Phone ROG Max",
+      "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLmy-eqOHOHeC6g4Dha8MrXFO-hUJib5_0l2gBaLnodpJNYkOp67J-A_GMIPcHAaJOccMbpurqsMA-i9tjVUg-u1IclEXX20W2cWNmSFMqyYW9ZciH8XLAkxd0lHocP7d09FS4t-fXL2ixOuBcCYm214WsLrYArYhaIOGdoJLJs3r0zsGBgc95AiikdZY/s500/111%20(2).png",
+      "category": "Mobile Phones",
+      "price": 899.99,
+      "description": "High-performance gaming phone with advanced cooling and long battery life.",
+      "specifications": [
+        "6.8-inch 144Hz AMOLED display",
+        "256GB storage",
+        "Dedicated gaming mode",
+        "5G and Wi-Fi 6 connectivity",
+        "6000mAh battery with fast charging"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "manufacturer": "GameXtreme",
+      "warranty": "2 years",
+      "release_date": "2023-08-25"
     }
   ]
 

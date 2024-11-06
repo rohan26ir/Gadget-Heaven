@@ -23,7 +23,7 @@ const Device = ({gadget}) => {
           <h2 className='text-2xl font-bold mt-2'>{product_title}</h2>
           <p>Price: {price}K</p>
 
-          <Link to={`/gadgets/${product_id}`}><button className='rounded-3xl border-2 border-purple-600 px-4 py-1 mt-3 hover:bg-gray-200'>View Details</button></Link>
+          <Link to={`/gadgets/${product_id}`}><button className='rounded-3xl border-[1px] border-purple-600 px-4 py-1 mt-3 hover:bg-gray-200'>View Details</button></Link>
          </div>
       </div>
     </div>
