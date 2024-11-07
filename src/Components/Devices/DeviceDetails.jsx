@@ -22,8 +22,6 @@ const DeviceDetails = () => {
 
 
   const handleWishlist = (id)=>{
-
-   
    addToStoredWish(id)
   }
 
