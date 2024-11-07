@@ -17,7 +17,7 @@ const NavBar = () => {
   );
 
   return (
-    <div className="mx-10 my-4">
+    <div className="mx-2 md:mx-10 my-4">
       <div className={`navbar ${changeColor? 'bg-white' :'bg-[#9538E2]'} rounded-lg px-8`}>
         <div className="navbar-start">
           <div className="dropdown">

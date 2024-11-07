@@ -22,8 +22,10 @@ const Wishlists = () => {
 
   return (
     <div>
-      <h3>WishList</h3>
-      <h2>Lingth: {readList.length}</h2>
+       <div className='text-center font-bold text-2xl'>
+       <h3>WishList</h3>
+       <h2>Lingth: {readList.length}</h2>
+       </div>
       <div className='flex flex-col gap-5'>
         {readList.map(book => (
           <WishList key={book.product_id} book={book} onDelete={handleDelete}/>

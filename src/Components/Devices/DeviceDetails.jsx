@@ -28,14 +28,14 @@ const DeviceDetails = () => {
 
 
   return (
-    <div className='mx-10 -mt-8'>
+    <div className='mx-2 md:mx-10 -mt-8'>
       <div className='bg-[#9538E2] pt-10 pb-36'>
-         <div className='text-center text-white'>
+         <div className='text-center text-white p-3'>
          <h2 className='text-4xl font-bold'>Product Details</h2>
          <p>Explore the latest gadgets that will take your experience to the next level. From smart devices to <br />the coolest accessories, we have it all!</p>
          </div>
       </div>
-      <div className='shadow-xl bg-white rounded-xl p-8 mx-36 -mt-24'>
+      <div className='shadow-xl bg-white rounded-xl p-8 mx-10 md:mx-36 -mt-24'>
         <h2>Device Deatils: {gadgetID}</h2>
          <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
            <div className='bg-slate-200 rounded-2xl flex justify-center items-center'>

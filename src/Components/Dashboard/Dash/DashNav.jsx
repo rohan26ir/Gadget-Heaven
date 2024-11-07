@@ -9,8 +9,8 @@ const DashNav = () => {
   const location = useLocation();
 
   return (
-    <div>
-      <div className='flex gap-4 mx-auto my-10 w-[10%]'>
+    <div className='flex justify-center'>
+      <div className='flex gap-4 text-center my-10 '>
         <NavLink to='cart'>
           <div
             className={`px-6 py-1 rounded-2xl ${

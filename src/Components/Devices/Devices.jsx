@@ -34,18 +34,18 @@ const Devices = () => {
       <h2 className='text-4xl text-center font-bold'>Explore Cutting-Edge Gadgets</h2>
       <h3 className='my-10 text-center'>Gadgets: {displayedGadgets.length}</h3>
 
-      <div className='grid grid-cols-1 md:grid-cols-4 gap-5 mx-20'>
+      <div className='grid grid-cols-1 md:grid-cols-4 gap-5 mx-5 md:mx-20'>
         <div className='col-span-1'>
-          <div className='bg-white shadow-2xl rounded-lg p-2'>
+          <div className='bg-white shadow-2xl rounded-lg p-2 ml-10 md:block'>
           <DevicesCategory 
             categories={categories} 
-            onSelectCategory={handleSelectCategory}
+            onSelectCategory={handleSelectCategory} 
             selectedCategory={selectedCategory}  
           ></DevicesCategory>
           </div>
         </div>
         <div className='col-span-3'>
-          <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
+          <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-4'>
             {
             displayedGadgets.map(gadget => (
               <Device key={gadget.product_id} gadget={gadget} ></Device>

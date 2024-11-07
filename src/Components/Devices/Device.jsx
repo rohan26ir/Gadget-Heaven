@@ -8,7 +8,7 @@ const Device = ({gadget}) => {
   
     <div className='flex flex-grow'>
       
-      <div className='bg-base-100 shadow-xl p-5 rounded-xl'>
+      <div className='bg-base-100 shadow-xl p-5 rounded-xl w-[100%]'>
         
         <div className='bg-gray-200 p-3 rounded-xl'>
         <img 
