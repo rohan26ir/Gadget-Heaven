@@ -1,7 +1,7 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.jsx'
+import { StrictMode } from 'react';
+import { createRoot } from 'react-dom/client';
+import './index.css';
+import App from './App.jsx';
 import {
   createBrowserRouter,
   RouterProvider,
@@ -12,16 +12,19 @@ import Root from './Components/Roots/Root.jsx';
 import Statistics from './Components/Statistics/Statistics.jsx';
 import Dashboard from './Components/Dashboard/Dashboard.jsx';
 import DeviceDetails from './Components/Devices/DeviceDetails.jsx';
+import Cart from './Components/Dashboard/Dash/Cart.jsx';
+import WishList from './Components/Dashboard/Dash/WishList/WishList.jsx';
+import Wishlists from './Components/Dashboard/Dash/WishList/Wishlists.jsx';
+
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Root></Root>,
-    errorElement: <ErrorPage></ErrorPage>,
+    element: <Root />,
+    errorElement: <ErrorPage />,
     children: [
       {
-        path: "",
-        element: <Home></Home>
-
+        path: "/",
+        element: <Home />
       },
       {
         path: 'gadgets/:gadgetID',
@@ -29,19 +32,34 @@ const router = createBrowserRouter([
         loader: () => fetch('/device.json')
       },
       {
-      path: '/Statistics',
-      element: <Statistics></Statistics>
-    },
-    {
-      path: '/Dashboard',
-      element: <Dashboard></Dashboard>
-    }
-  ]
+        path: '/Statistics',
+        element: <Statistics />
+      },
+      {
+        path: '/Dashboard',
+        element: <Dashboard />,
+        children: [
+          {
+            path: '',
+            element: <Cart></Cart>
+          },
+          {
+            path: 'cart',
+            element: <Cart />
+          },
+          {
+            path: 'wishlist',
+            element: <Wishlists></Wishlists>,
+            loader: () => fetch('/device.json')
+          }
+        ],
+      }
+    ]
   },
 ]);
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-   <RouterProvider router={router} />
+    <RouterProvider router={router} />
   </StrictMode>,
-)
+);

@@ -1,6 +1,6 @@
 [
     {
-      "product_id": "101",
+      "product_id": 101,
       "product_title": "Bluetooth Earbuds",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg99oPgI2fKBuHaFBLCMl8jBbUzRPWaIppRdm9Lg4OurcMH2lq-bIwsLbbH03lUtNJlsNZD1zqxkby3wJnQQMq1JzUv8W_3dNAbaUSEDRvbLmsHGCl0oYF5Mb7WCu06994eG7vf4p553ZyOVVcqtjQXSS_06VjE5k2cF3cXrSCqDliZzPXsvN-L2echyS8/s500/101.png",
       "category": "Audio",
@@ -19,7 +19,7 @@
       "release_date": "2023-02-15"
     },
     {
-      "product_id": "102",
+      "product_id": 102,
       "product_title": "Smartphone G202",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvpgjpqnoeE7i0KETAKpNFPLr5EPB8fF19hhUtzr6O_lvSBRXXfC7P6EDHEeUsZaqihmltrZ6c8AaGLd53mLEzR0zlzrGOh0sPgCLEhpr8_1v8FqA_aEElrjTpF4tzyyeg3y6GLkF7L9BdWymdZFqn-DXH_8mY5arke8xUcJsWWKmfCSRzz8kaweJFLd8/s524/102.png",
       "category": "Mobile Phones",
@@ -39,7 +39,7 @@
       "release_date": "2024-01-10"
     },
     {
-      "product_id": "103",
+      "product_id": 103,
       "product_title": "Gaming Laptop X15",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1aEw2iIZ-nARBua_w2gwQPj6G-6XQOgi7U4Be76mAXqpb7Yy5Vtx2DZUakCuAPv2pBwlGAiFm2pmEyO4T8LxKmGGIVb28Alrein9aELNU4FlMvt_bx_wKSgagrpaCIVGDWTcyLwccGS9aJqM8tJlshUVj40uryUqscUNPhqIY16NXat0M1Pkia0WFhnw/s622/103.png",
       "category": "Computers",
@@ -59,7 +59,7 @@
       "release_date": "2023-11-05"
     },
     {
-      "product_id": "104",
+      "product_id": 104,
       "product_title": "Smartwatch Series 6",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT_QeXjDLvvdt3vrbILZnGoR4yoKcK22CL7NI2SWWg7DRTACvBSBXKslDwihja04iJBqRpM0WWXjh2Z-IZVw7cESvyPKJjlcCleFFCrtOhFegWuZcpbo62IWAtJkLRkyG7FAzvs3Led46vK54_OXzgwpR53aQ98htpJE51ZJj-rbMT5M0v7j_XHZM6Pdg/s500/104.png",
       "category": "Wearables",
@@ -78,7 +78,7 @@
       "release_date": "2022-09-20"
     },
     {
-      "product_id": "105",
+      "product_id": 105,
       "product_title": "UltraBook Pro 14",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhomWqKvn5y1POPpzhDIr3KtvbaPZC5_mbcMMBifJ0ai8vR74Zqr1TIUL_OpfC8HMz3Kg8o987yHGkUBlnQ3V04MdbZssj7S47PlnsxJWN4bDdUAg1L9RRbGoA0-ai-NSU4I88dG4QL2sTrs2ac3EBSA_cM_K28bdRQEVamJ6UHgRSjICVKP-fe6gdiV_Q/s576/105.png",
       "category": "Computers",
@@ -98,7 +98,7 @@
       "release_date": "2024-01-15"
     },
     {
-      "product_id": "106",
+      "product_id": 106,
       "product_title": "Desktop PC GForce Elite",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNfew8ivm4LVKmNBtm0g-s_AVA_gvTEkFehCGRG6libsvT7e-CHJ7XdlPy6VG9qKUjSKONNqDbO8t-DYB7Qv1VMzqOraNKaFcGjsHLp7KsRqeDKCfTe4Y8Mv1FA-f1JxZmLL1OHg4PSvwYwJZZWjH79ixO8nVCKcQrABUK5U7t9lg86WXv4bFt1x8GCsc/s500/106.png",
       "category": "Computers",
@@ -118,7 +118,7 @@
       "release_date": "2023-09-20"
     },
     {
-      "product_id": "107",
+      "product_id": 107,
       "product_title": "Budget Phone A2",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0YrVd0Oa70WBZYIwv8xvxWYIuIdvbuRHeUBYjBDSu7LqaS9UM_xF5QxH5CVa-_MzfUI3bwIvZnVM47rTLD9fK_XDcmEmHdqYnqyZCIsG0jWmwfBTLPnM4ZlhcZ-ZKTyCGFlHCWNyznlVdOsaAFy7-nsWGrjoTHl2Q4gheNpvKN9rbkrLVxaBDV7vs6PU/s225/107.png",
       "category": "Mobile Phones",
@@ -138,7 +138,7 @@
       "release_date": "2023-12-01"
     },
     {
-      "product_id": "108",
+      "product_id": 108,
       "product_title": "Smartphone X1 Ultra",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDRiPErFaJ9bicKA1uLYLOaQur2TUhyphenhyphenHAwTiQd2wPw043CyZcjmqg3MSPI6LeBxWtDuxOr8fFqBLSRMILDM6FYAYSS0FQF8BnwC5BAjvgFhkeyJiHdlH3OLk3RN8DNx1bKNn41jaG3PTfFWk6M_tLT85JwEGKbYerEQVr3rK_sYL0WIzrfW9X5ZrdCiUw/s500/108.png",
       "category": "Mobile Phones",
@@ -158,7 +158,7 @@
       "release_date": "2024-05-15"
     },
     {
-      "product_id": "109",
+      "product_id": 109,
       "product_title": "Gaming Mouse GX5",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPBapovLo2BtT7sdbM28gGojFWp243JH2Utx_IBbZyvKKGRKotpmiCEP5IBTuIwrzDYtHLWUXl3-inD4oTUyiSlrgZmcFoxV_k-4Ubm-XiEbzjJs-W8Jr10uEaqTMkTw1GrLg6RHR0xsPaNG9LdfwTY5boZfdkQP40ta7sHbab2_-zCkr97FXjjhC2_iQ/s225/109.png",
       "category": "Accessories",
@@ -177,7 +177,7 @@
       "release_date": "2023-04-05"
     },
     {
-      "product_id": "110",
+      "product_id": 110,
       "product_title": "Noise-Cancelling Headphones",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzzUURIiZACuMRaiy3Q3_h2xZWdRCM2y_wtJ23xIbNHGaUKt99ODuUZKu1V741reUG9bYNkZP_X1LpUOlysSVhtdebElZvZBoScl9VGCf_nmcB1OCRWmiEU_nt3gC54H25QJz1RcpOOXo227Tf0MyrcQH_ThFLcLC9gk-LeOmzAmxbJ0of_fJ0keZeqTA/s500/110.png",
       "category": "Audio",
@@ -196,7 +196,7 @@
       "release_date": "2023-07-12"
     },
     {
-      "product_id": "115",
+      "product_id": 115,
       "product_title": "Foldable Smartphone Z",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6LvLqgbfGAJGr6-TWNB-YDqs5jTrkKfwYmJYauophFomoBZVAJnE6O6jozNoKirBH6sQpkHKolVdLn5cimtXx2YULJjg-oWex7oCHq_5d-yJQ8thVSxzaqb1XWFXhP3hsEdX50qS9sOcVukcGkpGLXvgaaeBK-VYz0FHo38JQTfs_yd-w3WBgo1SbWog/s320/112-removebg-preview.png",
       "category": "Mobile Phones",
@@ -216,7 +216,7 @@
       "release_date": "2024-03-10"
     },
     {
-      "product_id": "116",
+      "product_id": 116,
       "product_title": "Gaming Phone ROG Max",
       "product_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLmy-eqOHOHeC6g4Dha8MrXFO-hUJib5_0l2gBaLnodpJNYkOp67J-A_GMIPcHAaJOccMbpurqsMA-i9tjVUg-u1IclEXX20W2cWNmSFMqyYW9ZciH8XLAkxd0lHocP7d09FS4t-fXL2ixOuBcCYm214WsLrYArYhaIOGdoJLJs3r0zsGBgc95AiikdZY/s500/111%20(2).png",
       "category": "Mobile Phones",

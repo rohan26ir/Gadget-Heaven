@@ -1,19 +1,34 @@
 import React from 'react';
 import { useLoaderData, useParams } from 'react-router-dom';
+import { addToStoredWish } from '../Utility/addToDash';
 
 const DeviceDetails = () => {
 
   const {gadgetID} = useParams();
-  // console.log("Hello",gadgetID);
+  console.log("Hello",gadgetID);
 
   const data = useLoaderData();
-  // console.log(data);
+  console.log(data);
+
+  const id = parseInt(gadgetID);
+  console.log("id", id);
   
-  const device = data.find(device => device.product_id === gadgetID)
+  const device = data.find(device => device.product_id === id);
+
 
   const {product_title, price, description, product_image,specifications, availability, rating}  = device;
   
   console.log(device);
+
+
+  const handleWishlist = (id)=>{
+
+   
+   addToStoredWish(id)
+  }
+
+
+
   return (
     <div className='mx-10 -mt-8'>
       <div className='bg-[#9538E2] pt-10 pb-36'>
@@ -66,7 +81,8 @@ const DeviceDetails = () => {
                   </div>
                 </div>
                 <div>
-                  <div className='border-[2px] border-gray-500 rounded-full p-2'>
+                  <div className='border-[2px] border-gray-500 rounded-full p-2'
+                    onClick={() => handleWishlist(id)}  >
                     <img
                     className='h-5' 
                     src="/wishlist.png" alt="" />

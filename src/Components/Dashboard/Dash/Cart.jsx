@@ -1,6 +1,9 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 const Cart = () => {
+  useEffect(() => {
+    document.title= "Dashboard-Cart | GadgetHeaven";
+  },[])
   return (
     <div>
       <div className='bg-green-500'>
