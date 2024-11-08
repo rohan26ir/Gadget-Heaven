@@ -6,7 +6,7 @@ const NavBar = () => {
 
   // if click, the button of Statistics or Dashboard then bg color change of this 2 
   //  And website name text color will change
-  const changeColor = location.pathname === '/Statistics' || location.pathname === '/Dashboard';
+  const changeColor = location.pathname === '/Statistics' || location.pathname === '/Dashboard' || location.pathname === '/Dashboard/wishlist' || location.pathname === '/Dashboard/carts' ;
 
   const NavBarlink = (
     <>

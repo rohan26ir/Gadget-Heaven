@@ -24,15 +24,15 @@ const Devices = () => {
     setSelectedCategory(category);
   };
 
-  // Filter gadgets based on selected category
-  const displayedGadgets = selectedCategory === 'All Product'
-    ? gadgets
-    : gadgets.filter(gadget => gadget.category === selectedCategory);
+  // filter gadgets base on select cate
+  const displayDevice = selectedCategory === 'All Product' ;
+
+  const displayedGadgets = displayDevice ? gadgets : gadgets.filter(gadget => gadget.category === selectedCategory);
 
   return (
     <div className='my-5'>
       <h2 className='text-4xl text-center font-bold'>Explore Cutting-Edge Gadgets</h2>
-      <h3 className='my-10 text-center'>Gadgets: {displayedGadgets.length}</h3>
+      {/* <h3 className='my-10 text-center'>Gadgets: {displayedGadgets.length}</h3> */}
 
       <div className='grid grid-cols-1 md:grid-cols-4 gap-5 mx-5 md:mx-20'>
         <div className='col-span-1'>

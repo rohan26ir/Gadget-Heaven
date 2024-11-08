@@ -28,7 +28,7 @@ const DeviceDetails = () => {
         </div>
       </div>
       <div className='shadow-xl bg-white rounded-xl p-8 mx-10 md:mx-36 -mt-24'>
-        <h2>Device Details: {gadgetID}</h2>
+        {/* <h2>Device Details id: {gadgetID}</h2> */}
         <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
           <div className='bg-slate-200 rounded-2xl flex justify-center items-center'>
             <img src={product_image} alt={product_title} />
