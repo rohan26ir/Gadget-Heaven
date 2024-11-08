@@ -17,9 +17,9 @@ const Carts = () => {
       .then(res => res.json())
       .then(data => {
         setAllCart(data);
-        const storedReadList = getStoredCart().map(id => parseInt(id));
-        const readBookList = data.filter(cart => storedReadList.includes(cart.product_id));
-        setCartList(readBookList);
+        const storedCartList = getStoredCart().map(id => parseInt(id));
+        const readCartList = data.filter(cart => storedCartList.includes(cart.product_id));
+        setCartList(readCartList);
       }
     )
   }, []);
@@ -71,7 +71,7 @@ const Carts = () => {
         <div 
           onClick={handlePurchase}
           disabled={cartList.length === 0}
-          className={`rounded-3xl px-3 py-1 cursor-pointer ${cartList.length === 0 ? 'btn-disabled border-2 border-[#9538E2]' : 'bg-[#9538E2] hover:bg-green-600'}`}>
+          className={`rounded-3xl px-3 py-1 cursor-pointer ${cartList.length === 0 ? 'btn-disabled border-2 border-[#9538E2]' : 'bg-[#9538E2] hover:bg-orange-500'}`}>
           Purchase
         </div>
         </div>
