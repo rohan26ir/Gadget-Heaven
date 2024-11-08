@@ -18,8 +18,8 @@ const Carts = () => {
       .then(data => {
         setAllCart(data);
         const storedCartList = getStoredCart().map(id => parseInt(id));
-        const readCartList = data.filter(cart => storedCartList.includes(cart.product_id));
-        setCartList(readCartList);
+        const cartCartList = data.filter(cart => storedCartList.includes(cart.product_id));
+        setCartList(cartCartList);
       }
     )
   }, []);

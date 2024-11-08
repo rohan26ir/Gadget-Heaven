@@ -13,11 +13,11 @@ const Wishlists = () => {
     document.title= "DashBoard-Whshlist | GadgetHeaven";
 
 
-    const storedReadList = getStoredWish().map(id => parseInt(id));
+    const storedWishList = getStoredWish().map(id => parseInt(id));
 
-    const readBookList = allBooks.filter(book => storedReadList.includes(book.product_id));
+    const wishCartList = allBooks.filter(book => storedWishList.includes(book.product_id));
 
-    setReadList(readBookList);
+    setReadList(wishCartList);
   }, [allBooks]);
 
   const handleDelete = (id) => {
