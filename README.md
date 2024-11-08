@@ -4,10 +4,10 @@ Welcome to **GadgetHeaven**, your top place to find the latest and coolest gadge
 
 ## 🛠 Key React Concepts Used
 Here are the main React features used to build GadgetHeaven:
-- **Components**: Reusable parts of the site like the Navbar, Footer, and Product Cards.
-- **React Router**: Helps to link different pages like Home, Dashboard, Product Details, and the 404 page.
+- **Components**: Reusable parts of the site like the Home, Navbar, Footer, and Error.
+- **React Router**: Helps to link different pages like Home, Dashboard, Statistics, and the 404 page.
 - **State Management**: Used to manage the app's data, like tracking items in the cart or wishlist.
-- **useEffect Hook**: For loading data and updating when needed.
+- **useEffect Hook**: For loading data, updating when needed and change the website title.
 - **Conditional Rendering**: Changes the view based on actions, such as disabling the wishlist button after an item is added.
 
 ---
@@ -34,13 +34,13 @@ Here are the main React features used to build GadgetHeaven:
 - **Current Page Indicator**: Shows you which page you’re on.
 
 ### Home Page
-- **Banner Section**: Attractive banner with a button linking to the Dashboard.
+- **Banner Section**: Attractive banner with a button linking to the Shop.
 - **Categories Sidebar**: Lists gadget categories (like computers and phones).
 - **Gadget Cards**: Shows gadgets in a grid with an image, name, price, and details button.
 
-### Product Details Page
-- **Product Information**: Shows product image, name, price, and other details.
-- **Cart and Wishlist**: Buttons to add the product to your cart or wishlist.
+### Device Details Page
+- **Gadget Information**: Shows product image, name, price, and other details.
+- **Cart and Wishlist**: Buttons to add the Gadget to your cart or wishlist.
 
 ### Dashboard Page
 - **Tabs for Cart and Wishlist**: View items in the cart or wishlist by switching tabs.
@@ -52,20 +52,6 @@ Here are the main React features used to build GadgetHeaven:
 - **Dynamic Background**: Different background colors on the Home page compared to other pages.
 - **Purchase Confirmation**: A pop-up message for purchases with navigation back to the Home page.
 - **Page Titles**: Custom titles for each page.
-
----
-
-## 📈 Extra Challenge Features (Optional)
-- **Cart Limit**: Prevents the cart’s total value from exceeding $1000 and lets you remove items if needed.
-- **Wishlist Management**: Move items from Wishlist to Cart with a check on the cart limit.
-- **Statistics Page**: Shows a chart comparing gadget prices.
-
----
-
-## 💬 Notifications
-- **Add to Cart**: Shows a message when you add an item to the cart.
-- **Add to Wishlist**: Shows a different message when adding to the wishlist.
-
 
 ---
 
