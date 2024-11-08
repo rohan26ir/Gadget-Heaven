@@ -11,10 +11,10 @@ const DashNav = () => {
   return (
     <div className='flex justify-center'>
       <div className='flex gap-4 text-center my-10 '>
-        <NavLink to='cart'>
+        <NavLink to='carts'>
           <div
             className={`px-6 py-1 rounded-2xl ${
-              location.pathname === '/Dashboard/cart' ? 'bg-blue-500 text-white' : 'bg-gray-200'
+              location.pathname === '/Dashboard/carts' ? 'bg-blue-500 text-white' : 'bg-gray-200'
             }`}
           >
             <p>Cart</p>

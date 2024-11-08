@@ -12,9 +12,8 @@ import Root from './Components/Roots/Root.jsx';
 import Statistics from './Components/Statistics/Statistics.jsx';
 import Dashboard from './Components/Dashboard/Dashboard.jsx';
 import DeviceDetails from './Components/Devices/DeviceDetails.jsx';
-import Cart from './Components/Dashboard/Dash/Cart.jsx';
-import WishList from './Components/Dashboard/Dash/WishList/WishList.jsx';
 import Wishlists from './Components/Dashboard/Dash/WishList/Wishlists.jsx';
+import Carts from './Components/Dashboard/Dash/CartList/Carts.jsx';
 
 const router = createBrowserRouter([
   {
@@ -41,16 +40,17 @@ const router = createBrowserRouter([
         children: [
           {
             path: '',
-            element: <Cart></Cart>
+            element: <Carts></Carts>
           },
           {
-            path: 'cart',
-            element: <Cart />
+            path: 'carts',
+            element: <Carts></Carts>,
+            loader: () => fetch("/device.json"),
           },
           {
             path: 'wishlist',
             element: <Wishlists></Wishlists>,
-            loader: () => fetch('/device.json')
+            loader: () => fetch('/device.json'),
           }
         ],
       }
