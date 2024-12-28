@@ -59,7 +59,7 @@ Here are the main React features used to build GadgetHeaven:
 [Visit GadgetHeaven](https://gadget-heaven-01.surge.sh/)
 
 ## 📄 Requirement Document
-[Access Requirements Document](https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-rohan26ir/blob/main/website-Details.pdf)
+[Access Requirements Document](https://github.com/rohan26ir/Gadget-Heaven/tree/main/UI_Design)
 
 ---
 
